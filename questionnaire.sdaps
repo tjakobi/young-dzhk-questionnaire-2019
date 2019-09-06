@@ -1,5 +1,5 @@
 Title=6\textsuperscript {th} Young-DZHK Retreat --- September 2019 Survey
-PrintQuestionnaireId=1
+PrintQuestionnaireId=0
 PrintSurveyId=1
 Pages=6
 PageSize=597.50793pt, 845.04694pt
@@ -26,7 +26,7 @@ Answer-Choice=Munich
 Box=Checkbox, 1, 304.75397pt, 509.9767pt, 9.95845pt, 9.95845pt, box
 Answer-Choice=Rhine-Main
 Box=Checkbox, 1, 42.98857pt, 496.37671pt, 9.95845pt, 9.95845pt, box
-QObject-Head=1.2. To which extent is your working time subdivided into the following fields in 2017? (Please consider your entire working time and not only the time you spend on DZHK matters.)
+QObject-Head=1.2. To which extent is your working time subdivided into the following fields in 2018? (Please consider your entire working time and not only the time you spend on DZHK matters.)
 QObject-Mark=XAUTO. Experimental research
 Answer-Mark=0\%
 Box=Checkbox, 1, 419.17752pt, 441.7932pt, 9.95845pt, 9.95845pt, box
