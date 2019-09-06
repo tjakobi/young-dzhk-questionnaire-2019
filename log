@@ -1,0 +1,527 @@
+------------------------------------------------------------------------------
+- SDAPS -- setup_tex
+------------------------------------------------------------------------------
+Running pdflatex now twice to generate the questionnaire.
+Running pdflatex now twice to generate the questionnaire.
+5\textsuperscript {th} Young-DZHK Retreat --- September 2018 Survey
+Date: 25.05.2018
+Questionnaire
+1(Head) Personal information
+1.1(Choice) To which DZHK partner site do you belong? {1}
+	0(Checkbox)  15.1 108.2   3.5   3.5 Berlin
+	1(Checkbox) 107.1 108.2   3.5   3.5 Göttingen
+	2(Checkbox)  15.1 113.0   3.5   3.5 Greifswald
+	3(Checkbox) 107.1 113.0   3.5   3.5 Hamburg/Kiel/Lübeck
+	4(Checkbox)  15.1 117.8   3.5   3.5 Heidelberg/Mannheim
+	5(Checkbox) 107.1 117.8   3.5   3.5 Munich
+	6(Checkbox)  15.1 122.6   3.5   3.5 Rhine-Main
+1.2(Head) To which extent is your working time subdivided into the following fields in 2017? (Please consider your entire working time and not only the time you spend on DZHK matters.)
+1.2.1(Mark) Experimental research {1}
+	0\% - 100\%
+	0(Checkbox) 147.3 141.8   3.5   3.5 
+	1(Checkbox) 155.0 141.8   3.5   3.5 
+	2(Checkbox) 162.8 141.8   3.5   3.5 
+	3(Checkbox) 170.5 141.8   3.5   3.5 
+	4(Checkbox) 178.2 141.8   3.5   3.5 
+1.2.2(Mark) Clinical research {1}
+	0\% - 100\%
+	0(Checkbox) 147.3 146.6   3.5   3.5 
+	1(Checkbox) 155.0 146.6   3.5   3.5 
+	2(Checkbox) 162.8 146.6   3.5   3.5 
+	3(Checkbox) 170.5 146.6   3.5   3.5 
+	4(Checkbox) 178.2 146.6   3.5   3.5 
+1.2.3(Mark) Healthcare provision {1}
+	0\% - 100\%
+	0(Checkbox) 147.3 151.3   3.5   3.5 
+	1(Checkbox) 155.0 151.3   3.5   3.5 
+	2(Checkbox) 162.8 151.3   3.5   3.5 
+	3(Checkbox) 170.5 151.3   3.5   3.5 
+	4(Checkbox) 178.2 151.3   3.5   3.5 
+1.2.4(Mark) Teaching {1}
+	0\% - 100\%
+	0(Checkbox) 147.3 156.1   3.5   3.5 
+	1(Checkbox) 155.0 156.1   3.5   3.5 
+	2(Checkbox) 162.8 156.1   3.5   3.5 
+	3(Checkbox) 170.5 156.1   3.5   3.5 
+	4(Checkbox) 178.2 156.1   3.5   3.5 
+1.2.5(Mark) Research management {1}
+	0\% - 100\%
+	0(Checkbox) 147.3 160.9   3.5   3.5 
+	1(Checkbox) 155.0 160.9   3.5   3.5 
+	2(Checkbox) 162.8 160.9   3.5   3.5 
+	3(Checkbox) 170.5 160.9   3.5   3.5 
+	4(Checkbox) 178.2 160.9   3.5   3.5 
+1.2.6(Mark) Other {1}
+	0\% - 100\%
+	0(Checkbox) 147.3 165.7   3.5   3.5 
+	1(Checkbox) 155.0 165.7   3.5   3.5 
+	2(Checkbox) 162.8 165.7   3.5   3.5 
+	3(Checkbox) 170.5 165.7   3.5   3.5 
+	4(Checkbox) 178.2 165.7   3.5   3.5 
+2(Head) Promotion of young scientists in the DZHK ("Young-DZHK")
+2.1(Choice) Which instrument(s) to promote young scientists in the DZHK do you know? Please indicate by completing the following statement. I have at least a vague idea of what is ... {1}
+	0(Checkbox)  15.1 199.8   3.5   3.5 a DZHK junior research group.
+	1(Checkbox)  61.1 199.8   3.5   3.5 the DZHK postdoc start-up grant.
+	2(Checkbox) 107.1 199.8   3.5   3.5 the DZHK rotation grant for medical doctors.
+	3(Checkbox) 153.1 197.4   3.5   3.5 the DZHK research grant (release from teaching).
+	4(Checkbox)  15.1 216.5   3.5   3.5 the DZHK doctoral fellowship for medical students.
+	5(Checkbox)  61.1 216.5   3.5   3.5 the DZHK mobility programme ("visiting scientist").
+	6(Checkbox) 107.1 211.7   3.5   3.5 the DZHK financing scheme for a young scientist's attendance at high-rank congresses and conferences (travel grant).
+	7(Checkbox) 153.1 218.9   3.5   3.5 the Young-DZHK Retreat.
+	8(Checkbox)  15.1 235.6   3.5   3.5 the DZHK mentoring programme.
+	9(Checkbox)  61.1 238.0   3.5   3.5 Don't know
+2.2(Choice) Which instrument(s) to promote young scientists in the DZHK have you already used? {2}
+	0(Checkbox)  15.1  34.8   3.5   3.5 I have applied for a DZHK junior research group.
+	1(Checkbox)  61.1  34.8   3.5   3.5 I benefit or have benefited from the DZHK postdoc start-up grant.
+	2(Checkbox) 107.1  32.4   3.5   3.5 I benefit or have benefited from the DZHK rotation grant for medical doctors.
+	3(Checkbox) 153.1  32.4   3.5   3.5 I benefit or have benefited from the DZHK research grant (release from teaching).
+	4(Checkbox)  15.1  58.7   3.5   3.5 I benefit or have benefited from the DZHK doctoral fellowship for medical students.
+	5(Checkbox)  61.1  58.7   3.5   3.5 I benefit or have benefited from the DZHK mobility programme ("visiting scientist").
+	6(Checkbox) 107.1  51.5   3.5   3.5 I benefit or have benefited from the DZHK financing scheme for a young scientist's attendance at high-rank congresses and conferences (travel grant).
+	7(Checkbox) 153.1  63.5   3.5   3.5 I have attended Young-DZHK Retreat.
+	8(Checkbox)  15.1  85.0   3.5   3.5 I benefit or have benefited from the DZHK mentoring programme.
+	9(Checkbox)  61.1  89.8   3.5   3.5 Don't know
+2.3(Head) How do you assess the DZHK postdoc start-up grant? Please indicate to what extent you agree with the following statements.
+2.3.1(Choice) The DZHK postdoc start-up grant is generally appropriate to promote the career of young scientists. {2}
+	0(Checkbox) 146.4 149.7   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 149.7   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 149.7   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 149.7   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 149.7   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 149.7   3.5   3.5 \rotatebox {90}{Don't know}
+2.3.2(Choice) The DZHK postdoc start-up grant is generally appropriate to integrate young scientists into translational research. {2}
+	0(Checkbox) 146.4 160.3   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 160.3   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 160.3   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 160.3   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 160.3   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 160.3   3.5   3.5 \rotatebox {90}{Don't know}
+2.4(Head) How do you assess the DZHK mobility programme ("visiting scientist")? Please indicate to what extent you agree with the following statements.
+2.4.1(Choice) The DZHK mobility programme is generally appropriate to promote the career of young scientists. {2}
+	0(Checkbox) 146.4 218.8   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 218.8   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 218.8   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 218.8   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 218.8   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 218.8   3.5   3.5 \rotatebox {90}{Don't know}
+2.4.2(Choice) The DZHK mobility programme is generally appropriate to integrate young scientists into translational research. {2}
+	0(Checkbox) 146.4 229.3   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 229.3   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 229.3   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 229.3   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 229.3   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 229.3   3.5   3.5 \rotatebox {90}{Don't know}
+2.5(Head) How do you assess the DZHK financing scheme for a young scientist's attendance at high-rank congresses and conferences (travel grant)? Please indicate to what extent you agree with the following statements.
+2.5.1(Choice) The DZHK financing scheme for attending high-rank congresses is generally appropriate to promote the career of young scientists. {3}
+	0(Checkbox) 146.4  73.2   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4  73.2   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4  73.2   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4  73.2   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4  73.2   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4  73.2   3.5   3.5 \rotatebox {90}{Don't know}
+2.5.2(Choice) The DZHK financing scheme for attending high-rank congresses is generally appropriate to integrate young scientists into translational research. {3}
+	0(Checkbox) 146.4  83.7   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4  83.7   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4  83.7   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4  83.7   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4  83.7   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4  83.7   3.5   3.5 \rotatebox {90}{Don't know}
+2.6(Head) What experience do you have with Shared Expertise (SE) cooperation projects?
+2.6.1(Choice) I offer a Shared Expertise. {3}
+	0(Checkbox) 159.1 106.3   3.5   3.5 Yes
+	1(Checkbox) 168.4 106.3   3.5   3.5 No
+	2(Checkbox) 184.4 106.3   3.5   3.5 Don't know
+2.6.2(Choice) The Shared Expertise that I provide has already been utilized by another partner site. {3}
+	0(Checkbox) 159.1 112.1   3.5   3.5 Yes
+	1(Checkbox) 168.4 112.1   3.5   3.5 No
+	2(Checkbox) 184.4 112.1   3.5   3.5 Don't know
+2.6.3(Choice) I utilize/have utilized the Shared Expertise of another partner site. {3}
+	0(Checkbox) 159.1 118.9   3.5   3.5 Yes
+	1(Checkbox) 168.4 118.9   3.5   3.5 No
+	2(Checkbox) 184.4 118.9   3.5   3.5 Don't know
+2.7(Head) How do you assess the DZHK mentoring programme? Please indicate to what extent you agree with the following statements.
+2.7.1(Choice) The DZHK mentoring programme is generally appropriate to provide orientation on personal aims and opportunities to young scientists at a crucial stage of their career. {3}
+	0(Checkbox) 146.4 177.4   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 177.4   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 177.4   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 177.4   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 177.4   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 177.4   3.5   3.5 \rotatebox {90}{Don't know}
+2.7.2(Choice) The DZHK mentoring programme is generally appropriate to promote leadership and soft skills of young scientists. {3}
+	0(Checkbox) 146.4 190.3   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 190.3   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 190.3   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 190.3   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 190.3   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 190.3   3.5   3.5 \rotatebox {90}{Don't know}
+2.7.3(Choice) The DZHK mentoring programme is generally appropriate to expand the professional network of young scientists in the DZHK. {3}
+	0(Checkbox) 146.4 201.9   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 201.9   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 201.9   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 201.9   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 201.9   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 201.9   3.5   3.5 \rotatebox {90}{Don't know}
+3(Head) Cooperation, networking and communication in the DZHK
+3.1(Head) How do you assess the cooperation and networking in the DZHK as a whole? Please indicate to what extent you agree with the following statements.
+3.1.1(Choice) The cooperation between basic, preclinical and clinical research within my immediate work environment (locally) is intensified by the DZHK. {4}
+	0(Checkbox) 146.4  83.9   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4  83.9   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4  83.9   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4  83.9   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4  83.9   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4  83.9   3.5   3.5 \rotatebox {90}{Don't know}
+3.1.2(Choice) The cooperation between basic, preclinical and clinical research in the DZHK generates novel research and healthcare approaches in my scientific field. {4}
+	0(Checkbox) 146.4  94.5   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4  94.5   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4  94.5   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4  94.5   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4  94.5   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4  94.5   3.5   3.5 \rotatebox {90}{Don't know}
+3.1.3(Choice) Since the foundation of the DZHK, the cooperation in cardiovascular research between the seven DZHK partner sites has improved. {4}
+	0(Checkbox) 146.4 106.1   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 106.1   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 106.1   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 106.1   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 106.1   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 106.1   3.5   3.5 \rotatebox {90}{Don't know}
+3.1.4(Choice) Since the foundation of the DZHK, the cooperation and networking in cardiovascular research in Germany beyond the DZHK partner sites has improved. {4}
+	0(Checkbox) 146.4 117.6   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 117.6   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 117.6   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 117.6   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 117.6   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 117.6   3.5   3.5 \rotatebox {90}{Don't know}
+4(Head) Personal participation and motivation in the DZHK
+4.1(Choice) Which of the following aspects motivated you to get registered in the DZHK? Please indicate by completing the following statement. I requested registration as a Young-DZHK member or DZHK scientist because ... {4}
+	0(Checkbox)  15.1 154.7   3.5   3.5 ... translation is a personal concern of mine.
+	1(Checkbox)  61.1 152.3   3.5   3.5 ... networking in the DZHK is important for me.
+	2(Checkbox) 107.1 154.7   3.5   3.5 ... I want to use a certain funding scheme.
+	3(Checkbox) 153.1 154.7   3.5   3.5 ... I expect advantages for my career.
+	4(Checkbox)  15.1 166.7   3.5   3.5 ... my boss recommended it to me.
+	5(Checkbox)  61.1 166.7   3.5   3.5 ... of (an)other reason(s).
+	6(Checkbox) 107.1 169.0   3.5   3.5 Don't know
+4.2(Head) How do you assess your personal situation in the DZHK? Please indicate to what extent you agree with the following statements.
+4.2.1(Choice) I am well-integrated into the DZHK. {4}
+	0(Checkbox) 146.4 224.2   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 224.2   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 224.2   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 224.2   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 224.2   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 224.2   3.5   3.5 \rotatebox {90}{Don't know}
+4.2.2(Choice) My research and my career benefit from the DZHK. {4}
+	0(Checkbox) 146.4 230.0   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 230.0   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 230.0   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 230.0   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 230.0   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 230.0   3.5   3.5 \rotatebox {90}{Don't know}
+4.2.3(Choice) I want to increase my commitment in the DZHK. {4}
+	0(Checkbox) 146.4 236.8   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 236.8   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 236.8   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 236.8   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 236.8   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 236.8   3.5   3.5 \rotatebox {90}{Don't know}
+5(Head) Young-DZHK Retreat
+5.1(Head) How do you assess the Young-DZHK Retreat? Please indicate to what extent you agree with the following statements.
+5.1.1(Choice) The Young-DZHK Retreat is generally appropriate to promote the career of young scientists. {5}
+	0(Checkbox) 146.4  83.9   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4  83.9   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4  83.9   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4  83.9   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4  83.9   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4  83.9   3.5   3.5 \rotatebox {90}{Don't know}
+5.1.2(Choice) The Young-DZHK Retreat is generally appropriate to integrate young scientists into translational research. {5}
+	0(Checkbox) 146.4  94.5   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4  94.5   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4  94.5   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4  94.5   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4  94.5   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4  94.5   3.5   3.5 \rotatebox {90}{Don't know}
+5.2(Head) Please indicate to what extent you agree with the following statements.
+5.2.1(Choice) I was satisfied with the format of the Young-DZHK Retreat, i.e. sessions, breaks. {5}
+	0(Checkbox) 146.4 148.2   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 148.2   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 148.2   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 148.2   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 148.2   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 148.2   3.5   3.5 \rotatebox {90}{Don't know}
+5.2.2(Choice) The Young-DZHK Retreat was useful for me. {5}
+	0(Checkbox) 146.4 156.4   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 156.4   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 156.4   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 156.4   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 156.4   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 156.4   3.5   3.5 \rotatebox {90}{Don't know}
+5.2.3(Choice) I want to increase my commitment in the DZHK. {5}
+	0(Checkbox) 146.4 163.2   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 163.2   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 163.2   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 163.2   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 163.2   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 163.2   3.5   3.5 \rotatebox {90}{Don't know}
+5.2.4(Choice) The voting system was appropriate. {5}
+	0(Checkbox) 146.4 170.0   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 170.0   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 170.0   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 170.0   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 170.0   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 170.0   3.5   3.5 \rotatebox {90}{Don't know}
+5.3(Choice) In which ways(s) was the Young-DZHK Retreat relevant to you? {5}
+	0(Checkbox)  15.1 185.4   3.5   3.5 Networking
+	1(Checkbox) 107.1 185.4   3.5   3.5 Relevant to my project
+	2(Checkbox)  15.1 190.2   3.5   3.5 Socializing
+	3(Checkbox) 107.1 190.2   3.5   3.5 New project ideas
+	4(Checkbox)  15.1 194.9   3.5   3.5 Other
+	5(Checkbox) 107.1 194.9   3.5   3.5 Not relevant- ADDED BY TOBIAS
+5.4(Head) Tell us about your experiences at the Young-DZHK Retreat
+5.4.1(Choice) Did you make contact with people you hadn't met before? {5}
+	0(Checkbox) 159.1 214.2   3.5   3.5 Yes
+	1(Checkbox) 168.4 214.2   3.5   3.5 No
+	2(Checkbox) 184.4 214.2   3.5   3.5 Don't know
+5.4.2(Choice) Did you learn about a new technique? {5}
+	0(Checkbox) 159.1 219.9   3.5   3.5 Yes
+	1(Checkbox) 168.4 219.9   3.5   3.5 No
+	2(Checkbox) 184.4 219.9   3.5   3.5 Don't know
+5.5(Text) Do you have any comments on the / to the Young-DZHK committee? {6}
+	0(Textbox )  13.0  32.0 184.0  45.9 
+5.6(Head) Please indicate to what extent you agree with the following statements.
+5.6.1(Choice) The quality of the presentations (basic science) was appropriate. {6}
+	0(Checkbox) 146.4 127.7   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 127.7   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 127.7   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 127.7   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 127.7   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 127.7   3.5   3.5 \rotatebox {90}{Don't know}
+5.6.2(Choice) The quality of the presentations (epidemiological/clinical) was appropriate. {6}
+	0(Checkbox) 146.4 133.5   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 133.5   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 133.5   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 133.5   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 133.5   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 133.5   3.5   3.5 \rotatebox {90}{Don't know}
+5.7(Head) Please indicate to what extent you agree with the following statements.
+5.7.1(Choice) The quality of the keynote by \textbf {Katey Rayner} was appropriate. {6}
+	0(Checkbox) 146.4 193.0   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 193.0   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 193.0   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 193.0   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 193.0   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 193.0   3.5   3.5 \rotatebox {90}{Don't know}
+5.7.2(Choice) The quality of the keynote by \textbf {Linda van Laake} was appropriate. {6}
+	0(Checkbox) 146.4 198.8   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 198.8   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 198.8   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 198.8   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 198.8   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 198.8   3.5   3.5 \rotatebox {90}{Don't know}
+5.7.3(Choice) The quality of the keynote by \textbf {Florian Leuschner} was appropriate. {6}
+	0(Checkbox) 146.4 205.6   3.5   3.5 \rotatebox {90}{I fully agree}
+	1(Checkbox) 155.4 205.6   3.5   3.5 \rotatebox {90}{I mostly agree}
+	2(Checkbox) 164.4 205.6   3.5   3.5 \rotatebox {90}{I partially agree}
+	3(Checkbox) 173.4 205.6   3.5   3.5 \rotatebox {90}{I hardly agree}
+	4(Checkbox) 182.4 205.6   3.5   3.5 \rotatebox {90}{I do not agree at all}
+	5(Checkbox) 191.4 205.6   3.5   3.5 \rotatebox {90}{Don't know}
+5.8(Text) Do you have any recommendations for keynote speakers for the next year's Young-DZHK Retreat? {6}
+	0(Textbox )  13.0 225.3 184.0  45.9 
+
+------------------------------------------------------------------------------
+- SDAPS -- stamp
+------------------------------------------------------------------------------
+Running pdflatex now twice to generate the stamped questionnaire.
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Processing scans.tiff
+Done
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+57 sheets
+Warning: Page number for page 1.tif, 16 already used by another image.
+Warning: Page number for page 1.tif, 17 already used by another image.
+Warning: Got different IDs on different pages for at least one sheet! Do *NOT* try to use filters with this survey! You have to run a "reorder" step for this to work properly!
+Warning: Page number for page 1.tif, 22 already used by another image.
+Warning: Page number for page 1.tif, 23 already used by another image.
+Warning: Page number for page 1.tif, 38 already used by another image.
+Warning: Page number for page 1.tif, 39 already used by another image.
+Warning: Page number for page 1.tif, 118 already used by another image.
+Warning: Page number for page 1.tif, 119 already used by another image.
+Warning: Page number for page 1.tif, 124 already used by another image.
+Warning: Page number for page 1.tif, 125 already used by another image.
+Warning: Page number for page 1.tif, 140 already used by another image.
+Warning: Page number for page 1.tif, 141 already used by another image.
+1.496219 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- reorder
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+58 sheets
+1.388493 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- report
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/utils/paper.py:22: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- report
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/utils/paper.py:22: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- report
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/utils/paper.py:22: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+0 sheets
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+58 sheets
+1.290551 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+58 sheets
+1.456768 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+58 sheets
+1.354757 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+58 sheets
+1.370531 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+58 sheets
+1.409111 seconds per sheet
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Warning: Cannot convert PDF files as poppler is not installed or usable!
+Converting input files into a single temporary file.
+Error: 'NoneType' object has no attribute 'shape'
+Error: Running the conversion failed.
+Traceback (most recent call last):
+  File "/usr/bin/sdaps", line 23, in <module>
+    sys.exit(sdaps.main())
+  File "/usr/lib/python2.7/dist-packages/sdaps/__init__.py", line 64, in main
+    return cmdline['_func'](cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/script.py", line 105, in decorated_function
+    result = function(cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/cmdline/add.py", line 132, in add
+    os.unlink(file)
+OSError: [Errno 2] No such file or directory: '/tmp/user/1000/sdaps-convert-25Ra54.tif'
+------------------------------------------------------------------------------
+- SDAPS -- add
+------------------------------------------------------------------------------
+Warning: Cannot convert PDF files as poppler is not installed or usable!
+Converting input files into a single temporary file.
+Traceback (most recent call last):
+  File "/usr/bin/sdaps", line 23, in <module>
+    sys.exit(sdaps.main())
+  File "/usr/lib/python2.7/dist-packages/sdaps/__init__.py", line 64, in main
+    return cmdline['_func'](cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/script.py", line 105, in decorated_function
+    result = function(cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/cmdline/add.py", line 112, in add
+    convert_images(cmdline['images'], tmp, survey.defs.paper_width, survey.defs.paper_height, cmdline['transform'])
+  File "/usr/lib/python2.7/dist-packages/sdaps/convert/__init__.py", line 39, in convert_images
+    mono = opencv.convert_to_monochrome(img)
+  File "/usr/lib/python2.7/dist-packages/sdaps/utils/opencv.py", line 189, in convert_to_monochrome
+    img = cv2.adaptiveThreshold(img, 255.0, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, size, thresh_adjust)
+KeyboardInterrupt
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- report
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/utils/paper.py:22: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+------------------------------------------------------------------------------
+- SDAPS -- gui
+------------------------------------------------------------------------------
+/usr/lib/python2.7/dist-packages/sdaps/gui/__init__.py:27: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk

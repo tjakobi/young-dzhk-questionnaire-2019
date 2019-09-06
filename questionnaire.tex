@@ -1,0 +1,541 @@
+\documentclass[
+  % Babel language, also used to load translations
+  english,
+  % Use A4 paper size, you can change this to eg. letterpaper if you need
+  % the letter format. The normal methods to modify the paper size should
+  % be picked up by SDAPS automatically.
+  % a4paper, % setting this might break the example scan unfortunately
+  % letterpaper
+  %
+  % If you need it, you can add a custom barcode at the center
+  globalid=09-2019-v4-Young-DZHK,
+  %
+  % And the following adds a per sheet barcode at the bottom left
+  print_questionnaire_id,
+  %
+  % You can choose between twoside and oneside. twoside is the default, and
+  % requires the document to be printed and scanned in duplex mode.
+  % oneside,
+  %
+  % With SDAPS 1.1.6 and newer you can choose the mode used when recognizing
+  % checkboxes. valid modes are "checkcorrect" (default), "check" and
+  % "fill".
+  %checkmode=checkcorrect,
+  %
+  % style=qr,
+  % The following options make sense so that we can get a better feel for the
+  % final look.
+  pagemark,
+  stamp]{sdaps}
+\usepackage[utf8]{inputenc}
+% For demonstration purposes
+\usepackage{multicol}
+\usepackage{fixltx2e}
+
+\usepackage{lmodern}
+ \renewcommand{\familydefault}{\sfdefault}
+%  
+%  \fontencoding{T1}
+%   \fontfamily{garamond}
+%   \fontseries{m}
+%   \fontshape{it}
+%   \fontsize{12}{15}
+%   \selectfont
+ 
+%  \renewcommand{\sfdefault}{fvs}
+% \author{}
+\title{6\textsuperscript{th} Young-DZHK Retreat --- September 2019 Survey}
+
+\begin{document}
+  % Everything you do should be done inside the questionnaire environment.
+
+  % If you don't like the default text at the beginning of each questionnaire
+  % you can remove it with the optional [noinfo] parameter for the environment 
+  \begin{questionnaire}
+    % There is a predefined "info" style to hilight some text.
+    \begin{info}
+\textbf{A warm welcome to the survey among the Young-DZHK!}
+
+We are pleased that you support the DZHK with your participation in our survey.
+The survey aims to record your assessment of the Young-DZHK Retreat, because your work
+and commitment as a DZHK member are "at the very heart" of the DZHK.
+\\
+\\
+Thank you very much for your support!
+
+   \end{info}
+
+    % Use \addinfo to add metadata (which is printed on the report later on)
+    \addinfo{Date}{11.09.2019}
+
+    % You can structure the document using sections. You should not use
+    % subsections yourself, as these are used to typeset question text.
+    \section{Personal information}
+
+    
+        \begin{choicequestion}[2]{To which DZHK partner site do you belong?}
+      \choiceitem{Berlin}
+      \choiceitem{Göttingen}
+         \choiceitem{Greifswald}
+      \choiceitem{Hamburg/Kiel/Lübeck}
+       \choiceitem{Heidelberg/Mannheim}
+      \choiceitem{Munich}
+      \choiceitem{Rhine-Main}
+      
+    \end{choicequestion}
+ 
+    % Now we would like to ask multiple range questions that are similar. We
+    % can use a markgroup environment to typeset many range questions under
+    % one heading.
+    \begin{markgroup}{To which extent is your working time subdivided into the 
+following fields in 2017? (Please consider your entire
+working time and not only the time you spend on DZHK matters.)}
+      \markline{Experimental research}{0\%}{100\%}
+      \markline{Clinical research}{0\%}{100\%}
+      \markline{Healthcare provision}{0\%}{100\%}
+            \markline{Teaching}{0\%}{100\%}
+      \markline{Research management}{0\%}{100\%}
+      \markline{Other}{0\%}{100\%}
+
+    \end{markgroup}
+
+
+    
+   
+   
+ 
+\section{Promotion of young scientists in the DZHK ("Young-DZHK")}
+ 
+ 
+ 
+ \begin{choicequestion}[4]{Which instrument(s) to promote young scientists in 
+the DZHK do you know? Please indicate by completing the
+following statement.
+I have at least a vague idea of what is ...
+}
+
+      \choiceitem{a DZHK junior research group.}
+      \choiceitem{the DZHK postdoc start-up grant.}
+      \choiceitem{the DZHK rotation grant for medical doctors.}
+      \choiceitem{the DZHK research grant (release from teaching).}
+      \choiceitem{the DZHK doctoral fellowship for medical students.
+}
+      \choiceitem{the DZHK mobility programme ("visiting scientist").
+}
+      \choiceitem{the DZHK financing scheme for a young scientist's attendance 
+at high-rank 
+congresses and conferences (travel grant).}
+      \choiceitem{the Young-DZHK Retreat.}
+      \choiceitem{the DZHK mentoring programme.}
+            \choiceitem{Don't know}
+
+    \end{choicequestion}
+    
+    
+    
+    
+    
+ \begin{choicequestion}[4]{Which instrument(s) to promote young scientists 
+in the DZHK have you already used?}
+
+      \choiceitem{I have applied for a DZHK junior research group.}
+      \choiceitem{I benefit or have benefited from the DZHK postdoc start-up 
+grant.}
+      \choiceitem{I benefit or have benefited from the DZHK rotation grant for 
+medical doctors.}
+      \choiceitem{I benefit or have benefited from the DZHK research grant 
+(release from teaching).}
+      \choiceitem{I benefit or have benefited from the DZHK doctoral fellowship 
+for medical students.}
+      \choiceitem{I benefit or have benefited from the DZHK mobility programme 
+("visiting scientist").} \choiceitem{I benefit or have benefited from the DZHK 
+financing scheme for a young scientist's attendance at high-rank congresses and 
+conferences (travel grant).}
+      \choiceitem{I have attended Young-DZHK Retreat.}
+      \choiceitem{I benefit or have benefited from the DZHK mentoring 
+programme.}
+            \choiceitem{Don't know}
+
+    \end{choicequestion}
+ 
+ % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+\begin{choicegroup}{How do you assess the DZHK postdoc start-up grant? 
+Please indicate to what extent you agree with the
+following statements.}
+
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The DZHK postdoc start-up grant is
+generally appropriate to promote the
+career of young scientists.
+}
+\vspace{0.2cm}
+      \choiceline{The DZHK postdoc start-up grant is
+generally appropriate to integrate
+young scientists into translational
+research.
+}
+
+    \end{choicegroup}
+
+ 
+    
+
+    
+ % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+\begin{choicegroup}{How do you assess the DZHK mobility programme ("visiting 
+scientist")? Please indicate to what extent you agree
+with the following statements.
+}
+
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The DZHK mobility programme is
+generally appropriate to promote the
+career of young scientists.
+}
+\vspace{0.2cm}
+      \choiceline{The DZHK mobility programme is
+generally appropriate to integrate
+young scientists into translational
+research.
+}
+    \end{choicegroup}
+    
+    
+ % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+\begin{choicegroup}{How do you assess the DZHK financing scheme for a young 
+scientist's attendance at high-rank congresses and
+conferences (travel grant)? Please indicate to what extent you agree with the 
+following statements.}
+
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The DZHK financing scheme for
+attending high-rank congresses is
+generally appropriate to promote the
+career of young scientists.
+}
+\vspace{0.2cm}
+      \choiceline{The DZHK financing scheme for
+attending high-rank congresses is
+generally appropriate to integrate
+young scientists into translational
+research.
+}
+    \end{choicegroup}
+    
+    
+
+    
+     \begin{choicegroup}{What experience do you have with Shared Expertise (SE) 
+cooperation projects?}
+      % We have to add the possible choices at the start.
+      \groupaddchoice{Yes}
+      \groupaddchoice{No}
+      \groupaddchoice{Don't know}
+
+      % After that it is possible to add each question.
+      \choiceline{I offer a Shared Expertise.
+}
+\vspace{0.2cm}
+      \choiceline{The Shared Expertise that I provide has already been utilized 
+by another
+partner site.
+}
+\vspace{0.2cm}
+
+      \choiceline{I utilize/have utilized the Shared Expertise of another 
+partner site.
+}
+
+
+    \end{choicegroup}
+
+    
+ % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+\begin{choicegroup}{How do you assess the DZHK mentoring programme? Please 
+indicate to what extent you agree with the
+following statements.
+}
+
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The DZHK mentoring programme is
+generally appropriate to provide
+orientation on personal aims and
+opportunities to young scientists at a
+crucial stage of their career.
+}
+\vspace{0.2cm}
+      \choiceline{The DZHK mentoring programme is
+generally appropriate to promote
+leadership and soft skills of young
+scientists.
+}
+\vspace{0.2cm}
+      \choiceline{The DZHK mentoring programme is
+generally appropriate to expand the
+professional network of young
+scientists in the DZHK.
+}
+    \end{choicegroup}
+
+
+\section{Cooperation, networking and communication in the DZHK}
+
+\begin{choicegroup}{How do you assess the cooperation and networking in the 
+DZHK as a whole? Please indicate to what extent you
+agree with the following statements.}
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+
+      \choiceline{The cooperation between basic,
+preclinical and clinical research within
+my immediate work environment
+(locally) is intensified by the DZHK.}
+
+\vspace{0.2cm}
+
+
+\choiceline{The cooperation between basic, preclinical and clinical research in 
+the DZHK generates novel research and healthcare approaches in my scientific 
+field.}
+\vspace{0.2cm}
+
+
+\choiceline{Since the foundation of the DZHK, the
+cooperation in cardiovascular research
+between the seven DZHK partner sites
+has improved.}
+
+\vspace{0.2cm}
+
+\choiceline{Since the foundation of the DZHK, the
+cooperation and networking in
+cardiovascular research in Germany
+beyond the DZHK partner sites has
+improved.}
+
+\end{choicegroup}
+    
+ 
+    
+
+\section{Personal participation and motivation in the DZHK}
+
+ \begin{choicequestion}[4]{Which of the following aspects motivated you to get 
+registered in the DZHK? Please indicate by completing the
+following statement.
+I requested registration as a Young-DZHK member or DZHK scientist because ...
+}
+
+      \choiceitem{... translation is a personal concern of mine.
+}
+      \choiceitem{... networking in the DZHK is important for me.
+}
+      \choiceitem{... I want to use a certain funding scheme.
+}
+      \choiceitem{... I expect advantages for my career.
+}
+      \choiceitem{... my boss recommended it to me.
+}
+      \choiceitem{... of (an)other reason(s).
+}
+            \choiceitem{Don't know}
+
+    \end{choicequestion}
+    
+    
+    
+\begin{choicegroup}{How do you assess your personal situation in the DZHK? 
+Please indicate to what extent you agree with the
+following statements.}
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{I am well-integrated into the DZHK.
+}
+\vspace{0.2cm}
+      % After that it is possible to add each question.
+      \choiceline{My research and my career benefit
+from the DZHK.
+}
+\vspace{0.2cm}
+      % After that it is possible to add each question.
+      \choiceline{I want to increase my commitment in
+the DZHK.}
+\end{choicegroup}
+
+\section{Young-DZHK Retreat}
+
+ % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+\begin{choicegroup}{How do you assess the Young-DZHK Retreat? Please indicate 
+to what extent you agree with the following statements.}
+
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The Young-DZHK Retreat is generally
+appropriate to promote the career of
+young scientists.
+}
+\vspace{0.2cm}
+      \choiceline{The Young-DZHK Retreat is generally
+appropriate to integrate young
+scientists into translational research.
+}
+    \end{choicegroup}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{choicegroup}{Please indicate to what extent you agree with the
+following statements.}
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{I was satisfied with the format of the Young-DZHK Retreat, i.e.
+sessions, breaks.}
+\vspace{0.2cm}
+      % After that it is possible to add each question.
+      \choiceline{The Young-DZHK Retreat was useful for me.}
+\vspace{0.2cm}
+      % After that it is possible to add each question.
+      \choiceline{I want to increase my commitment in
+the DZHK.}
+\vspace{0.2cm}
+
+      \choiceline{The voting system was appropriate.}
+
+\end{choicegroup}
+
+
+
+        \begin{choicequestion}[2]{In which ways(s) was the Young-DZHK Retreat relevant to you?}
+      \choiceitem{Networking}
+      \choiceitem{Relevant to my project}
+         \choiceitem{Socializing}
+      \choiceitem{New project ideas}
+       \choiceitem{Other}
+       \choiceitem{Not relevant}
+    \end{choicequestion}
+
+     \begin{choicegroup}{Tell us about your experiences at the Young-DZHK Retreat}
+      % We have to add the possible choices at the start.
+      \groupaddchoice{Yes}
+      \groupaddchoice{No}
+      \groupaddchoice{Don't know}
+
+      % After that it is possible to add each question.
+      \choiceline{Did you make contact with people you
+hadn't met before?}
+\vspace{0.2cm}
+      \choiceline{Did you learn about a new technique?}
+\vspace{0.2cm}
+
+    \end{choicegroup}
+
+
+            \textbox{4cm}{Do you have any comments on the / to the Young-DZHK committee?}
+
+            
+            \textbf{Evaluation of the presentations}
+\begin{choicegroup}{Please indicate to what extent you agree with the
+following statements.}
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The quality of the presentations (basic science) was appropriate.}
+\vspace{0.2cm}
+      % After that it is possible to add each question.
+      \choiceline{The quality of the presentations (epidemiological/clinical) was appropriate.}
+\vspace{0.2cm}
+\end{choicegroup}
+
+            \textbf{Evaluation of the keynotes}
+
+
+\begin{choicegroup}{Please indicate to what extent you agree with the
+following statements.}
+
+      \groupaddchoice{\rotatebox{90}{I fully agree}}
+      \groupaddchoice{\rotatebox{90}{I mostly agree}}
+      \groupaddchoice{\rotatebox{90}{I partially agree}}
+      \groupaddchoice{\rotatebox{90}{I hardly agree}}
+      \groupaddchoice{\rotatebox{90}{I do not agree at all}}
+      \groupaddchoice{\rotatebox{90}{Don't know}}
+      
+      % After that it is possible to add each question.
+      \choiceline{The quality of the keynote by \textbf{Katey Rayner} was appropriate.}
+\vspace{0.2cm}
+      % After that it is possible to add each question.
+      \choiceline{The quality of the keynote by \textbf{Linda van Laake} was appropriate.}
+\vspace{0.2cm}
+      \choiceline{The quality of the keynote by \textbf{Florian Leuschner} was appropriate.}
+\vspace{0.2cm}
+\end{choicegroup}
+            
+            \textbox{4cm}{Do you have any recommendations for keynote speakers for the next year's Young-DZHK Retreat?}
+
+
+  \end{questionnaire}
+\end{document}
+

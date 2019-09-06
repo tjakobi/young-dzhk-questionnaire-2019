@@ -1,0 +1,22 @@
+[sdaps]
+title = 5\textsuperscript {th} Young-DZHK Retreat --- September 2018 Survey
+global_id = 09-2018-v3-Young-DZHK
+
+[info]
+Date = 25.05.2018
+
+[defs]
+# These values are not read back, they exist for information only!
+paper_width = 210.0
+paper_height = 297.0
+print_questionnaire_id = True
+print_survey_id = True
+style = code128
+duplex = True
+checkmode = checkcorrect
+
+[questionnaire]
+# These values are not read back, they exist for information only!
+page_count = 6
+survey_id = 1092401640
+
